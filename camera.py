@@ -1,5 +1,5 @@
 from flask import Flask, Response
-import cv2  # OpenCV ile video akışı
+import cv2 
 from flask_cors import CORS
 
 app = Flask(__name__)
