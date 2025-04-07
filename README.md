@@ -55,4 +55,4 @@ HTML dosyanızdaki img etiketi içindeki URL’yi aşağıdaki gibi değiştirin
 ```html
 img src=http192.148.4.258000video
 ```
- ⚠️ IP adresiniz zaman zaman değişebilir. Aynı ağa bağlı cihazlardan erişim için doğru IP’yi kontrol ettiğinizden emin olun.
+> ⚠️ IP adresiniz zaman zaman değişebilir. Aynı ağa bağlı cihazlardan erişim için doğru IP’yi kontrol ettiğinizden emin olun.
